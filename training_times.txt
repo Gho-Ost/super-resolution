@@ -1,0 +1,7 @@
+standard_conv = 57m7s
+autoencoder = 26m31s
+unet = 54m15s
+inception = 92m32s
+inception_alt = 153m27s
+skip_1 = 75m31s
+skip_2 = 43m19s
