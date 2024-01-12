@@ -5,3 +5,6 @@ inception = 92m32s
 inception_alt = 153m27s
 skip_1 = 75m31s
 skip_2 = 43m19s
+
+ssim_unet = 66m50s
+ms_ssim_unet = 67m55s
