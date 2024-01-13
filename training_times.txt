@@ -5,6 +5,8 @@ inception = 92m32s
 inception_alt = 153m27s
 skip_1 = 75m31s
 skip_2 = 43m19s
-
-ssim_unet = 66m50s
+GAN = ? *A100 Colab
+ssim_unet = 64m54s
 ms_ssim_unet = 67m55s
+huber_unet = 
+ssim inception_alt = 
