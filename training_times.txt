@@ -8,5 +8,5 @@ skip_2 = 43m19s
 GAN = ? *A100 Colab
 ssim_unet = 64m54s
 ms_ssim_unet = 67m55s
-huber_unet = 
-ssim inception_alt = 
+huber_unet = 54m59s
+ssim inception_alt = 150m15s
